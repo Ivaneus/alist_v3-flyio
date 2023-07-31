@@ -1,7 +1,7 @@
 # alist-fly.io
 
 ### Deploy Alist to fly.io
-[![Deploy to fly.io]](https://fly.io/dashboard/personal/launch)
+[[Deploy to fly.io]](https://fly.io/dashboard/personal/launch)
 
 ### database
 You may need to use another remote MySQL database as instance restarts will lose data.
