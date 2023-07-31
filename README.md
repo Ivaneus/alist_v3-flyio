@@ -1,7 +1,7 @@
-# alist-render
+# alist-fly.io
 
-### Deploy Alist to Render
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+### Deploy Alist to fly.io
+[![Deploy to fly.io]](https://fly.io/dashboard/personal/launch)
 
 ### database
 You may need to use another remote MySQL database as instance restarts will lose data.
